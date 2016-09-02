@@ -1,0 +1,108 @@
+@import url(reset.css);
+
+#sheet {
+	width: 660px;
+	margin: 0 auto;
+}
+
+#header {
+	width: 660px;
+	height:58px;
+}
+
+	#logo {
+		width:136px;
+		height:58px;
+		float: left;
+		/* margin: center; */
+	}
+
+	#left_text{
+		width:263px;
+		height:58px;
+		float: left; 
+		overflow: auto;
+		
+	/* 	border: 1px solid red; */
+		
+		
+	}
+
+	#left_text {
+		color: #b8b7b7;
+		font:  10px Arial;
+		margin-top: auto;
+		
+	/* 	word-break: normal;
+		 */
+		
+	}
+
+
+	#right_image {
+		width:84px;
+		height:58px;
+		float: right;
+	}
+
+			#face {
+				width:43px;
+				height:56px;
+				float: left; 
+			}
+			#twitter {
+				width:37px;
+				height:56px;
+				float: left; 
+			}
+
+		
+#l_2 {
+	width:660px;
+	height:59px;
+	font: 25px Calibri;
+	
+}
+
+#l_3 {
+	width:660px;
+	height:317px;
+	/* display: inline-block; */
+	/* vertical-align: middle; */
+	/* border: 1px solid black; */
+	position: relative;
+}	
+
+	#l_3_ramka{
+		width:600px;
+		height:260px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #b8b7b7;
+		position: absolute;
+		margin: auto;
+		
+		top:0;
+		left:0;
+		right:0;
+		bottom:0;
+
+
+	}	
+		#l_3_image {
+			width:293px;
+			height:301px;
+			/* border: 1px solid black; */
+			float: left; 
+			margin-top: -40.5px;
+			
+		}
+		
+		#l_3_text {
+			width:305px;
+			height:260px;
+			/*border: 1px solid black;*/
+			 float: left; 
+			 margin-right: auto;
+			font: 13px Calibri ;
+		}
