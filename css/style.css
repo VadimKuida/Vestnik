@@ -54,12 +54,14 @@ body{
 			#face {
 				width:43px;
 				height:56px;
-				float: left; 
+				float: left;
+				border: none;
 			}
 			#twitter {
 				width:37px;
 				height:56px;
-				float: left; 
+				float: left;
+				border: none;
 			}
 
 		
@@ -237,6 +239,7 @@ body{
 			width: 600px;
 			height: 56px;
 			margin-left: 29.5%;
+			border: none;
 		}
 
 
