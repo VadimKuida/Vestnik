@@ -208,3 +208,37 @@
 				font: 13px Calibri ;
 				margin-top: auto;
 			}
+#l_5{
+	width: 660px;
+	height: 34px;
+	margin-top: auto;
+}
+
+#l_6{
+	width: 600px;
+	height: 166px;
+	position: relative;
+	margin: auto;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #b8b7b7;
+}
+		#l_6_cont{
+			width: 500px;
+			height: 60px;
+			margin: 25%;
+		}
+		#l_6_menu ul {
+			width: 500px;
+			height: 30px;
+			top:50px;
+			/*position: relative;*/
+			/*margin: auto;*/
+
+		}
+
+		#l_6_menu ul {
+			text-align: center;
+
+
+		}
